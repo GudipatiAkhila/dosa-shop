@@ -12,3 +12,4 @@
 * karam
 * oil
 * red karam
+* white karam
