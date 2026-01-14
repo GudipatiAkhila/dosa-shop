@@ -16,3 +16,4 @@
 * added egg 
 * pesarettu 
 * ghee 
+* added upma
