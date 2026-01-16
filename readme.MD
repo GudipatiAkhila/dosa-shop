@@ -17,3 +17,5 @@
 * pesarettu 
 * ghee 
 * added upma
+## paneer dosa
+* dosa batter
